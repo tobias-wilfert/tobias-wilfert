@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-wilfert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **tobias-wilfert/tobias-wilfert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-wilfert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
