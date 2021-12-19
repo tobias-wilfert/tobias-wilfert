@@ -1,5 +1,5 @@
 ### Hi there 👋 
-#### While you are here have a look at the NASA picture of the day
+#### While you are here have a look at NASAs picture of the day.
 **Credit:** Antonio Finazzi   
 ![Planetary Alignment over Italy](img.png)   
 
