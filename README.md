@@ -1,6 +1,7 @@
 ### Hi there 👋 
-#### While you are here have a look at NASAs picture of the day.
-**Credit:** Antonio Finazzi   
-![Planetary Alignment over Italy](img.png)   
+  #### While you are here have a look at NASAs picture of the day.
+  **Credit:** Cory Poole   
+  ![The Comet and the Fireball](img.png)   
 
-**Explanation:** It is not a coincidence that planets line up. That's because all of the planets orbit the Sun in (nearly) a single sheet called the plane of the ecliptic. When viewed from inside that plane -- as Earth dwellers are likely to do -- the planets all appear confined to a single band. It is a coincidence, though, when three of the brightest planets all appear in nearly the same direction.  Such a coincidence was captured earlier this month.  Featured above (right to left), Venus, Saturn, and Jupiter were all imaged together in a line just after sunset, from the San Fermo Hills, Bergamo, Italy. Joining the alignment are Earth's Moon, and the position of the more distant Uranus. Bands of clouds streak across the sky toward the setting Sun.  As Comet Leonard fades, this planetary alignment -- absent the Moon -- should persist for the rest of the month.   Discovery + Outreach: Graduate student research position open for APOD
+  **Explanation:** This picture was supposed to feature a comet. Specifically, a series of images of the brightest comet of 2021 were being captured: Comet Leonard.  But the universe had other plans. Within a fraction of a second, a meteor so bright it could be called a fireball streaked through just below the comet. And the meteor's flash was even more green than the comet's coma.  The cause of the meteor's green was likely magnesium evaporating from the meteor's pebble-sized core, while the cause of the comet's green was likely diatomic carbon recently ejected from the comet's city-sized nucleus. The images were taken 10 days ago over the Sacramento River and Mt. Lassen in California, USA. The fireball was on the leading edge of this year's Geminid Meteor Shower -- which peaked a few days later. Comet Leonard is now fading after reaching naked-eye visibility last week -- but now is moving into southern skies.   Almost Hyperspace: Random APOD Generator
+  
